@@ -1,0 +1,2 @@
+# Spamm
+Used for spamming
